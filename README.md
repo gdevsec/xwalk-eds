@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--xwalk-eds--gdevsec.aem.page/
+- Live: https://main--xwalk-eds--gdevsec.aem.live/
 
 ## Documentation
 
